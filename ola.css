@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html{
+    background-image: url(https://blog.olacabs.com/wp-content/uploads/2018/01/Ola-Fleet2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ola{
+    width: 150px;
+    height:783px;
+    /* background-color: rgb(93,219,228); */
+}
+a{
+    text-decoration: none;
+}
+.one{
+    margin-top: 10px;
+    margin-left: 25px;
+    font-size: 64px;
+    color: black;
+}
+.navi a{
+    color: rgb(8, 8, 8);
+    width: 100px;
+    height:250px;
+}
+span{
+    font-size: 25px;
+}
+.text{
+    position: absolute;
+    left: 30px;
+    top:125px;
+}
+.text1{
+    position: absolute;
+    left: 30px;
+    top:175px;
+}
+.text2{
+    position: absolute;
+    left: 30px;
+    top:223px;
+}
+.text3{
+    position: absolute;
+    left: 30px;
+    top:273px;
+}
+.search1{
+    position: relative;
+    margin-left: 350px;
+    width:500%;
+    height: 30px;
+    border:3px solid black;
+}
+.search2{
+    margin-left: 350%;
+    width:510px;
+    height:30px;
+    background-color: rgb(35,187,24);
+    text-align: left;
+    display: inline;
+    text-decoration: none;
+}
+.search2 a{
+    margin-top: -200px;
+}
+.searchb{
+    margin-top: -280px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* margin-top: 250px; */
+}
+.searchs{
+    margin-top: -300px;
+    margin-right: 0px;
+} 
+.img1{
+    margin-left: 250px;
+    margin-top: 20px;
+}
+ion-icon{
+    color:rgb(7, 7, 7);
+}
